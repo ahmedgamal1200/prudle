@@ -1,7 +1,6 @@
 <?php
 
 use App\Models\Payment;
-use App\Models\Plan;
 use App\Models\Subscription;
 use Illuminate\Database\Migrations\Migration;
 use Illuminate\Database\Schema\Blueprint;
